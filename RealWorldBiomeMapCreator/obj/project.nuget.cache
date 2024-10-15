@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Po81/0ruXC8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amaldi Cameron\\source\\repos\\MinecraftPlugin\\RealWorldBiomeMapCreator\\RealWorldBiomeMapCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amaldi Cameron\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
